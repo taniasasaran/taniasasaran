@@ -2,6 +2,16 @@
 <p>✨I am currently a senior student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.<br>📚I am learning and interested in AI, public key cryptography, frontend development and many more!<br>🎲Fun fact: I really love photography and I started learning Photoshop and Illustrator. </p>
 
 
+<h1>💡 Interesting Projects:</h1>
+
+- [RSA Cryptosystem](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-5/PKC/RSA_cryptosystem) (Python)<br>
+- [Lexical Analyzer that uses Finite Automata instead of RegEx](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-5/FLCD/Lab4) (Java)<br>
+- [Famous Dogs - Einstein's 5 houses problem](https://github.com/taniasasaran/UBB-Computer-Science/blob/main/Semester-3/PLF/famousDogs-SasaranTania.txt) - [Task](https://www.brainzilla.com/logic/zebra/famous-dogs/) (Prolog)<br>
+- [Local Movie Database](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-2/OOP/Labs/a14/LocalMovieDatabase_IV) (C++ & Qt)<br>
+- [Obstruction Game](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-1/FP/Labs/a11) - [Task](http://www.papg.com/show?2XMX) (Python)<br>
+- [Order and Chaos](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-1/FP/Labs/retake) - [Task](https://en.wikipedia.org/wiki/Order_and_Chaos) (Python)
+
+
 <h1>💻 Tech Stack:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
