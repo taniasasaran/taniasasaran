@@ -5,6 +5,7 @@
 <h1>💡 Interesting Projects:</h1>
 
 - [RSA Cryptosystem](https://github.com/taniasasaran/RSA-Cryptosystem) (Python)<br>
+- [Task Management Mobile App](https://github.com/taniasasaran/TaskManagementMobile) (Flutter)<br>
 - [Lexical Analyzer that uses Finite Automata instead of RegEx](https://github.com/taniasasaran/UBB-Computer-Science/tree/main/Semester-5/FLCD/Lab4) (Java)<br>
 - [LR(0) Parser with Father-Sibling Relation Table Output](https://github.com/taniasasaran/parser) (Java)<br>
 - [Famous Dogs - Einstein's 5 houses problem](https://github.com/taniasasaran/UBB-Computer-Science/blob/main/Semester-3/PLF/famousDogs-SasaranTania.txt) - [Task](https://www.brainzilla.com/logic/zebra/famous-dogs/) (Prolog)<br>
